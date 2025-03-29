@@ -1,23 +1,18 @@
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
+import PriceDashboard from './components/dashboard';
+import CryptoPriceChart from './components/chart';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      {/* <PriceDashboard
+          price="63,179.71" 
+          changeAmount="2,161.42" 
+          changePercentage="3.54" 
+          isPositive={true} 
+      /> */}
+      <CryptoPriceChart />
     </div>
   );
 }
