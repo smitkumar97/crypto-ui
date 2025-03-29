@@ -25,7 +25,6 @@ import {
   Typography,
   Paper,
   Dialog,
-  IconButton
 } from "@mui/material";
 
 ChartJS.register(
