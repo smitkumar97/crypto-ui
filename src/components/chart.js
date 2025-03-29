@@ -307,7 +307,6 @@ export default function CryptoPriceChart() {
         </Box>
       </Box>
 
-      <Box sx={{ height: 64, bgcolor: 'grey.100', borderRadius: 1 }} />
     </Box>
   );
 
