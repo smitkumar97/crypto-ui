@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/smitkumar97/crypto-ui.git/static/css/main.2bc0b7cd.css",
+    "main.js": "/smitkumar97/crypto-ui.git/static/js/main.e3e602d7.js",
+    "static/js/453.5ebd66a1.chunk.js": "/smitkumar97/crypto-ui.git/static/js/453.5ebd66a1.chunk.js",
+    "index.html": "/smitkumar97/crypto-ui.git/index.html",
+    "main.2bc0b7cd.css.map": "/smitkumar97/crypto-ui.git/static/css/main.2bc0b7cd.css.map",
+    "main.e3e602d7.js.map": "/smitkumar97/crypto-ui.git/static/js/main.e3e602d7.js.map",
+    "453.5ebd66a1.chunk.js.map": "/smitkumar97/crypto-ui.git/static/js/453.5ebd66a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bc0b7cd.css",
+    "static/js/main.e3e602d7.js"
+  ]
+}
