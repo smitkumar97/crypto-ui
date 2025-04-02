@@ -20,11 +20,10 @@ jobs:
           node-version: '22.14.0'
           
       - name: Install dependencies
-        run: npm install
+        run: npm ci
           
-      - name: Build
+      - name: Build Project
         run: npm run build
-             touch ./build/.nojekyll
              
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
